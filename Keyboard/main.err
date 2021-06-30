@@ -1,0 +1,74 @@
+*** Error 12 "main.c" Line 27(12,13): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 27(47,48): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 28(11,12): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 28(46,47): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 34(5,10): Undefined identifier   TRISC
+*** Error 12 "main.c" Line 35(5,10): Undefined identifier   TRISB
+*** Error 12 "main.c" Line 36(5,11): Undefined identifier   TRISD6
+*** Error 12 "main.c" Line 37(5,11): Undefined identifier   TRISD7
+*** Error 12 "main.c" Line 38(15,16): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 53(3,4): Undefined identifier   i
+*** Error 12 "main.c" Line 89(5,6): Undefined identifier   i
+*** Error 12 "main.c" Line 89(9,10): Undefined identifier   i
+*** Error 12 "main.c" Line 89(13,14): Undefined identifier   i
+*** Error 12 "main.c" Line 90(12,13): Undefined identifier   i
+*** Error 12 "main.c" Line 94(10,12): Undefined identifier   k2
+*** Error 12 "main.c" Line 97(10,12): Undefined identifier   k2
+*** Error 12 "main.c" Line 100(17,19): Undefined identifier   k2
+*** Error 12 "main.c" Line 108(5,10): Undefined identifier   PORTB
+*** Error 12 "main.c" Line 109(5,8): Undefined identifier   RD6
+*** Error 12 "main.c" Line 110(5,8): Undefined identifier   RD7
+*** Error 12 "main.c" Line 111(15,16): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 112(5,8): Undefined identifier   RD7
+*** Error 12 "main.c" Line 113(15,16): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 117(5,10): Undefined identifier   PORTB
+*** Error 12 "main.c" Line 118(5,8): Undefined identifier   RD6
+*** Error 12 "main.c" Line 119(5,8): Undefined identifier   RD7
+*** Error 12 "main.c" Line 120(15,16): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 121(5,8): Undefined identifier   RD7
+*** Error 12 "main.c" Line 122(15,16): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 132(1,4): Undefined identifier   RC0
+*** Error 12 "main.c" Line 132(6,9): Undefined identifier   RC1
+*** Error 12 "main.c" Line 132(11,14): Undefined identifier   RC2
+*** Error 12 "main.c" Line 132(16,19): Undefined identifier   RC3
+*** Error 12 "main.c" Line 133(4,7): Undefined identifier   RC4
+*** Error 12 "main.c" Line 133(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 134(4,7): Undefined identifier   RC5
+*** Error 12 "main.c" Line 134(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 135(4,7): Undefined identifier   RC6
+*** Error 12 "main.c" Line 135(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 136(4,7): Undefined identifier   RC7
+*** Error 12 "main.c" Line 136(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 137(1,4): Undefined identifier   RC0
+*** Error 12 "main.c" Line 137(6,9): Undefined identifier   RC1
+*** Error 12 "main.c" Line 137(11,14): Undefined identifier   RC2
+*** Error 12 "main.c" Line 137(16,19): Undefined identifier   RC3
+*** Error 12 "main.c" Line 138(4,7): Undefined identifier   RC4
+*** Error 12 "main.c" Line 138(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 139(4,7): Undefined identifier   RC5
+*** Error 12 "main.c" Line 139(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 140(4,7): Undefined identifier   RC6
+*** Error 12 "main.c" Line 140(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 141(4,7): Undefined identifier   RC7
+*** Error 12 "main.c" Line 141(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 142(1,4): Undefined identifier   RC0
+*** Error 12 "main.c" Line 142(6,9): Undefined identifier   RC1
+*** Error 12 "main.c" Line 142(11,14): Undefined identifier   RC2
+*** Error 12 "main.c" Line 142(16,19): Undefined identifier   RC3
+*** Error 12 "main.c" Line 143(4,7): Undefined identifier   RC4
+*** Error 12 "main.c" Line 143(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 144(4,7): Undefined identifier   RC5
+*** Error 12 "main.c" Line 144(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 145(4,7): Undefined identifier   RC6
+*** Error 12 "main.c" Line 145(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 146(4,7): Undefined identifier   RC7
+*** Error 12 "main.c" Line 146(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 147(1,4): Undefined identifier   RC0
+*** Error 12 "main.c" Line 147(6,9): Undefined identifier   RC1
+*** Error 12 "main.c" Line 147(11,14): Undefined identifier   RC2
+*** Error 12 "main.c" Line 147(16,19): Undefined identifier   RC3
+*** Error 12 "main.c" Line 148(4,7): Undefined identifier   RC5
+*** Error 12 "main.c" Line 148(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 149(4,7): Undefined identifier   RC7
+*** Error 12 "main.c" Line 149(44,45): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 199(11,12): Undefined identifier  -- __delay_ms
